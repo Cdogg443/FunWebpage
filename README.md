@@ -7,3 +7,4 @@
 UPDATED SCREENSHOTS
 ![image](https://github.com/Cdogg443/FunWebpage/assets/105624898/d18910fc-d13b-4927-877e-e4d757e4ab34)
 ![image](https://github.com/Cdogg443/FunWebpage/assets/105624898/92d6e97c-53cd-4e9e-aada-ecf7c50c2a95)
+![image](https://github.com/Cdogg443/FunWebpage/assets/105624898/2a2c490d-0023-49c7-b3f5-565b5e6f9e01)
